@@ -38,10 +38,10 @@ from Suman Das
 
 
 ## Before Fine-Tuning
-![Before Fine-Tuning](before_finetunning.png)
+![Before Fine-Tuning](before_finetuning.png)
 
 ## After Fine-Tuning
-![After Fine-Tuning](after_finetunning.png)
+![After Fine-Tuning](after_finetuning.png)
 
 ## Base Model:
 
